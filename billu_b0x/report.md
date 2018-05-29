@@ -1,12 +1,8 @@
-#### target:			billu_b0x by Manish Kishan Tanwar####
-
-#### hosted by:			vulnhub.com####
-
-#### virtualization software: 	virtualbox####
-
-#### testing platform:		kali linux 2017####
-
-#### walkthrough by:		worzel-gummidge####
+### target:			billu_b0x by Manish Kishan Tanwar
+### hosted by:			vulnhub.com
+### virtualization software: 	virtualbox
+### testing platform:		kali linux 2017
+### walkthrough by:		worzel-gummidge
 
 
 

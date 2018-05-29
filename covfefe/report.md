@@ -1,12 +1,8 @@
-#### target:			covfefe by Tim Kent
-
-#### hosted by:			vulnhub.com
-
-#### virtualization software: 	virtualbox
-
-#### testing platform:		kali linux 2017
-
-#### walkthrough by:		worzel-gummidge
+### target:			covfefe by Tim Kent
+### hosted by:			vulnhub.com
+### virtualization software: 	virtualbox
+### testing platform:		kali linux 2017
+### walkthrough by:		worzel-gummidge
 
 after using **nmap** to find the IP of the target, **nmap** is used again to discover open ports. 3 open ports tcp22(ssh), tcp80(http) and tcp31337(http) are found.
 
