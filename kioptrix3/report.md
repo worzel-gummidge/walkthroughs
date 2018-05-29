@@ -1,10 +1,10 @@
-### target:				kioptrix3 by Kioptrix Team
+### target:		kioptrix3 by Kioptrix Team
 
-### hosted by:			vulnhub.com
+### hosted by:		vulnhub.com
 
 ### testing platform:	kali linux 2017
 
-### walkthrough by:		worzel_gummidge
+### walkthrough by:	worzel_gummidge
 
 
 

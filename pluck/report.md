@@ -1,12 +1,12 @@
-###target:					Pluck by @ryanoberto 
+### target:			Pluck by @ryanoberto 
 
-###hosted by:				vulnhub.com 
+### hosted by:			vulnhub.com 
 
-###virtualization software: 	virtualbox 
+### virtualization software: 	virtualbox 
 
-###testing platform:		kali linux 2017 
+### testing platform:		kali linux 2017 
 
-###walkthrough by:			worzel_gummidge 
+### walkthrough by:		worzel_gummidge 
 
 
 

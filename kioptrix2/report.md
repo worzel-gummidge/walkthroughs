@@ -1,12 +1,12 @@
-###target:				kioptrix2 by Kioptrix Team 
+### target:		kioptrix2 by Kioptrix Team 
 
-###hosted by:			vulnhub.com
+### hosted by:		vulnhub.com
 
-###virtualization:		virtualbox
+### virtualization:	virtualbox
 
-###testing platform:	kali linux 2017
+### testing platform:	kali linux 2017
 
-###walkthrough by:		worzel_gummidge
+### walkthrough by:	worzel_gummidge
 
 
 
